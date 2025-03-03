@@ -18,7 +18,7 @@ Arsitektur data untuk proyek ini mengikuti Arsitektur Medali, lapisan **Bronze**
 
 Proyek ini meliputi:
 
-1. **Arsitektur Data**: Mendesain Data Warehouse Modern Menggunakan Arsitektur Medallion, lapisan **Bronze**, **Silver**, dan **Gold**.
+1. **Arsitektur Data**: Mendesain Data Warehouse Modern Menggunakan Arsitektur Medali, lapisan **Bronze**, **Silver**, dan **Gold**.
 2. **ETL Pipelines**: Extracting, transforming, and loading data dari sistem sumber ke dalam warehouse.
 3. **Data Modeling**: Mengembangkan tabel fakta dan dimensi yang dioptimalkan untuk kueri analitik.
 
