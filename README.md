@@ -35,7 +35,7 @@ Proyek ini meliputi:
 ---
 
 ## Notion Project Steps
-**[Notion Project Steps](https://fluorescent-nurse-a01.notion.site/Data-Warehouse-Project-1a7d95765fef800bb1b2c64bb0e3dc82):** Akses ke Semua Fase dan Tugas Proyek.
+**[Notion Project Steps](https://fluorescent-nurse-a01.notion.site/Data-Warehouse-Project-1abd95765fef809684b3c545e7ca970e?pvs=4):** Akses ke Semua Fase dan Tugas Proyek.
 
 ---
 
